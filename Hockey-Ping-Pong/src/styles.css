@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: black;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.app-container {
+  padding: 20px;
+}
+
+canvas {
+  border: 2px solid white;
+  display: block;
+  margin: 0 auto;
+}
