@@ -1,2 +1,8 @@
-# hockey-ping-pong
-A new twist on a classic ping pong game. Let the Hockey battles begin!
+# Hockey Ping Pong
+
+A fun, hockey-themed ping pong game built with React + TypeScript + Vite.
+
+## 🚀 Run Locally
+```bash
+npm install
+npm run dev
